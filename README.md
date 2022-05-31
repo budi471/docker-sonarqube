@@ -23,6 +23,10 @@ Please be aware that we are not actively looking for feature contributions. We t
 
 With that in mind, if you would like to submit a code contribution, please create a pull request for this repository. Please explain your motives to contribute this change: what problem you are trying to fix, what improvement you are trying to make.
 
+Error Resolve for docker-compose
+-------------
+sysctl -w vm.max_map_count=262144
+
 ### License
 
 Copyright 2015-2020 SonarSource.
